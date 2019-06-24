@@ -1,0 +1,21 @@
+#header{
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#4B0082;
+  color: white;
+  padding: 10px,10px;
+}
+
+table,tr,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+
+}
+
+#present_issued_books{
+	color: green;
+}

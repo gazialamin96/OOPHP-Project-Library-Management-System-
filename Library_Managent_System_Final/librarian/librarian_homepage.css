@@ -1,0 +1,47 @@
+#header{
+	text-align: center;
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#4B0082;
+  color: white;
+  padding: 10px,10px;
+}
+#hello{
+	text-align: center;
+}
+#first_div{
+	overflow:auto;
+}
+.menu {
+  float:left;
+  width:50%;
+  text-align:left;
+}
+.menu a {
+  background-color:#e5e5e5;
+  padding:10px;
+  margin-top:7px;
+  display:block;
+  width:40%;
+  color:black;
+}
+
+.right {
+  background-color:#e5e5e5;
+  float:left;
+}
+
+#logout{
+	text-align: right;
+}
+#fieldset{
+	width: 60%;
+	background-color: green; 
+	color: white;
+}
+#legend{
+	background-color: blue;
+	color: white;
+}

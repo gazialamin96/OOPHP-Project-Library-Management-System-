@@ -1,0 +1,104 @@
+
+#header{
+    padding: 50px;
+    background-color: midnightblue;
+}
+#logo{
+    height: 80px;
+    width:  200px;
+    float:left;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+#aheader{
+    color: white;
+    padding-left: 450px;
+    font-size: 30px;
+    font-family: italic;
+}
+#notregistaredyet{
+    float: right;
+}
+#h{
+    color: red;
+}
+
+#signup{
+    float: right;
+    color: white;
+    text-decoration: none;
+}
+#signup:hover{
+    background-color:black;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 450px;
+    overflow: hidden;
+    background-color:#4B0082;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:black;
+}
+
+.picture{
+    background-image: url("image/library_management_system1.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#footer{
+    background-color: midnightblue;
+    padding:150px;
+
+}
+
+#heading{
+    color: white;
+    padding: 0px;
+    margin: -50px;
+    margin-top: -120px;
+}
+
+#street{
+    color: white;
+    margin: 50px;
+    margin-left: -100px;
+    margin-top: 100px;
+}
+
+#follow{
+    color: white;
+    margin-left: 1020px;
+    margin-top: -180px;
+}
+
+#copyright{
+    color: white;
+    margin-left: -150px;
+    margin-top: 200px; 
+}
